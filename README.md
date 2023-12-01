@@ -1,4 +1,4 @@
-# ta_C_class
+# Introduction to Arrays in C
 
 مباحث مربوط به آرایه ها
 #مقدمه
